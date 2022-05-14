@@ -1,0 +1,31 @@
+nav
+{
+    background-color:#F2F4F4;
+    height:48px;
+}
+
+#menu
+{
+list-style-type: none;
+    display: inline-flex;
+    float: right;
+}
+#menu li
+{
+    margin-right: 30px;
+}
+
+
+#menu li a
+{
+    text-decoration:none;
+    
+}
+
+#banner {
+    margin-top: 2px;
+    background-image: url('Image.jpg');
+    height: 250px;
+    width: 100%;
+    background-position: bottom;
+}

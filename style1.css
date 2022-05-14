@@ -1,0 +1,8 @@
+div{
+    margin: 50px 30px 20px 30px;
+    border:2px solid #376F13;
+    padding: 20px 10px 20px 10px;
+    background: lightblue;
+    border-block-color: red;
+
+}
