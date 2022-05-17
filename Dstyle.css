@@ -38,8 +38,9 @@ nav {
     height: 250px;
     width: 100%;
     background-position: bottom;
-    color:white;
 }
+
+  
     #banner h1 {
         position: absolute;
         top: 82px;
@@ -48,7 +49,7 @@ nav {
 
 .left-panel {
     position: relative;
-    height: 450px;
+    height: 400px;
     background: #F2F4F4;
     width: 20%;
     top: -12px;
@@ -90,4 +91,17 @@ table td {
         top: 10px;
         color: white;
         left: 10px;
+    }
+
+    a.hover{
+        color:white;
+        background:darkgray;
+
+
+    }
+    img:hover{
+        height:200px;
+        width:200px;
+        cursor:pointer;
+
     }
